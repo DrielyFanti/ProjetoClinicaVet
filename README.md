@@ -207,5 +207,3 @@ npm run serve
 
 ![Cadastro de Serviços](ImagensSistema/4-%20Cadastro%20de%20Serviços.png)
 *Tela de cadastro de Serviços*
-
-## Contribuição
