@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vet-clinic
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: vet-clinic
+  template:
+    metadata:
+      labels:
+        app: vet-clinic
+    spec:
+      containers:
+      - name: vet-clinic
+        image: vet-clinic:latest
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vet-clinic
+spec:
+  selector:
+    app: vet-clinic
+  ports:
+  - port: 80
+    targetPort: 80
+  type: LoadBalancer 
