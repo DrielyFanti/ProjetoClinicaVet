@@ -1,6 +1,6 @@
 # Sistema de Clínica Veterinária
 
-Este é um sistema completo para gerenciamento de clínicas veterinárias, desenvolvido com Laravel (Backend) e Vue.js (Frontend).
+Este é um projeto para gerenciamento de clínicas veterinárias, desenvolvido com Laravel (Backend) e Vue.js (Frontend).
 
 ## Como Baixar e Configurar o Projeto
 
@@ -171,16 +171,3 @@ npm run serve
 - Registro de serviços realizados
 - Controle de preços
 - Histórico de atendimentos por animal
-
-## Contribuição
-
-Para contribuir com o projeto, siga estas etapas:
-
-1. Clone o repositório em sua máquina local
-2. Crie uma nova branch para suas alterações
-3. Faça suas modificações
-4. Envie suas alterações para o repositório
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. 
