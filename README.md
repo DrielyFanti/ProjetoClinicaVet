@@ -152,22 +152,60 @@ npm run serve
 
 ## Funcionalidades do Sistema
 
+### Tela Inicial
+
+![Tela de Inicio 1](ImagensSistema/0-%20Pagina%20inicial%201.png)
+*Tela de Inicio 1*
+![Tela de Inicio 2](ImagensSistema/1-%20Pagina%20inicial%202.png)
+*Tela de Inicio 2*
+
+### DashBoard
+
+![Dashboard](ImagensSistema/5-%20Pesquisa%20de%20tutores.png)
+*Tela de Dashboard*
+
 ### Gestão de Tutores
 - Cadastro completo de tutores
 - Busca por CPF ou nome
 - Histórico de animais por tutor
+
+![Pesquisa de Tutores](ImagensSistema/5-%20Pesquisa%20de%20tutores.png)
+*Tela de pesquisa de tutores*
+
+![Cadastro de Tutores](ImagensSistema/6-%20Cadastro%20de%20tutores.png)
+*Tela de cadastro de tutores*
 
 ### Gestão de Animais
 - Cadastro de animais com informações detalhadas
 - Vinculação com tutor
 - Histórico de atendimentos
 
-### Agendamentos
+![Listagem de Animais](ImagensSistema/7-%20Listagem%20de%20animais.png)
+*Tela de listagem de animais*
+
+![Cadastro de Animais](ImagensSistema/8-%20Cadastro%20de%20Animais.png)
+*Tela de cadastro de Animais*
+
+### Consultas
 - Marcação de consultas e procedimentos
-- Controle de status dos agendamentos
+- Controle de status dos Consultas
 - Visualização de agenda
+
+![Listagem de Consultas](ImagensSistema/9-%20Listagem%20de%20consultas.png)
+*Tela de listagem de Consultas*
+
+![Cadastro de Consultas](ImagensSistema/10-%20Cadastro%20de%20Consulta.png)
+*Tela de cadastro de Consultas*
 
 ### Serviços
 - Registro de serviços realizados
 - Controle de preços
 - Histórico de atendimentos por animal
+
+![Listagem de Serviços](ImagensSistema/3-%20Listagem%20de%20serviços.png)
+*Tela de listagem de serviços*
+
+![Cadastro de Serviços](ImagensSistema/4-%20Cadastro%20de%20Serviços.png)
+*Tela de cadastro de Serviços*
+
+## Contribuição
